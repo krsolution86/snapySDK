@@ -1,0 +1,6 @@
+framework module snapySDK {
+  umbrella header "snapySDK.h"
+
+  export *
+  module * { export * }
+}

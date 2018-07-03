@@ -18,6 +18,10 @@ class ViewController: UIViewController {
         hud.center=self.view.center;
         self.view .addSubview(hud);
         
+        
+        
+        
+        
     }
 
     override func didReceiveMemoryWarning() {
